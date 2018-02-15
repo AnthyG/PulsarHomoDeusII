@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Wall
   - AI
+  - StoryText
+  - Button
+  - Marker
   layers:
   - Default
   - TransparentFX
@@ -51,4 +54,7 @@ TagManager:
     locked: 0
   - name: Units
     uniqueID: 1003835669
+    locked: 0
+  - name: Markers
+    uniqueID: 340033633
     locked: 0
