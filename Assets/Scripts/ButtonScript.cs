@@ -26,6 +26,7 @@ public class ButtonScript : MonoBehaviour {
 
             // var lol = pScript.GetStoryQuestCounter();
             // Debug.Log (pScript + " :: " + lol);
+            Player.StoryQuestCounter++;
 
             animator.SetTrigger ("pressed");
         }
